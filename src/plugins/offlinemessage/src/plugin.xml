@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<!--插件的全路径-->
+	<class>com.ls.openfire.plugin.OfflineMessagePlugin</class>
+ 
+	<!-- Plugin meta-data -->
+	<name>Offline Message Plugin</name>
+	<description>This is an offline message plugin.</description>
+	<author>Chenyuemei</author>
+ 
+	<version>1.0</version>
+	<date>08/01/2016</date>
+	<url>http://localhost:9090/openfire/plugins.jsp</url>
+	<minServerVersion>3.4.1</minServerVersion>
+	<licenseType>gpl</licenseType>
+ 
+	<adminconsole>    
+	</adminconsole>
+</plugin>
