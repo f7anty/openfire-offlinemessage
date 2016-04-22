@@ -1,5 +1,5 @@
 
-openfire-offlinemessage —— a plugin to get offline messages' count
+openfire-offlinemessage
 ==================================
 
 ### 插件说明
